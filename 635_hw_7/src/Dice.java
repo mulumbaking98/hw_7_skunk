@@ -36,6 +36,7 @@ public class Dice {
 	public int getDieRoll(){return 0;}
 	public int getDie2Roll(){return lastDie2Roll;}
 	public int getDie1Roll(){return lastDie1Roll;}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
